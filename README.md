@@ -8,4 +8,4 @@ My created projects written in Python code (with .py and .ipynb)
 
 | Search Algorithm Type | Description | Code Example |
 | :---: | :---: | :---: | 
-| Binary Search Algorithm | Efficient and ideal for sorted data.   Searches by checking the first element, then the last, then the middle, and continues to until the desired element is found | [Binary Search in Python](https://github.com/reygenvoyager-stack/Search_Algorithms/blob/main/Binary_Search.ipynb) |
+| Binary Search Algorithm | Efficient and ideal for sorted data. Searches by checking the first element, then the last, then the middle, and continues to until the desired element is found | [Binary Search in Python](https://github.com/reygenvoyager-stack/Search_Algorithms/blob/main/Binary_Search.ipynb) |
