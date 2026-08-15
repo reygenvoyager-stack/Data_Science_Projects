@@ -8,4 +8,4 @@ My created projects written in Python code (with .py and .ipynb)
 
 | Search Algorithm Type | Description | Language |
 | :---: | :---: | :---: | 
-| Binary Search Algorithm | Searches by checking the first element, then the last, then the middle, and continues to until the desired element is found | [Code in Python](https://github.com/reygenvoyager-stack/Python-Projects/blob/e4ba12d68de643abeb0f964afaed05d4a985b735/Linear_Regression_using_Quarterly_Sales_based_on_Discount.ipynb) |
+| Binary Search Algorithm | Searches by checking the first element, then the last, then the middle, and continues to until the desired element is found | [Code in Python](https://github.com/reygenvoyager-stack/Search_Algorithms/blob/main/Binary_Search.ipynb) |
