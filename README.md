@@ -1,5 +1,6 @@
-# Python-Projects
-My created projects written in Python code (with .py and .ipynb)
+# Data Science Projects
+My created projects and algorithms.
+My Python projects are saved in .py and .ipynb
 
 ### Problem Solving
 | Problem | Description | Implementation | Dataset | Creation Date (Day/Month/Year) |
